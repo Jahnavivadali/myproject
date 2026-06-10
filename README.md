@@ -1,13 +1,11 @@
-# My Project
+# Git Mistake Recovery Demo
 
-Welcome to my project repository! 🚀
+This project demonstrates how to recover from mistakes in Git using basic commands like `git restore` and `git checkout`.
 
-## 📌 About the Project
-This project is created to practice and understand Git and GitHub workflows. It includes basic files and experiments with version control.
+## 📌 Project Steps Covered
 
-## 🛠️ Technologies Used
-- Git
-- GitHub
-- (Add your language like JavaScript / Python / C etc.)
-
-## 📂 Project Structure
+### 1. Initialize Repository
+```bash
+mkdir git-mistake-recovery
+cd git-mistake-recovery
+git init
